@@ -1,4 +1,5 @@
 # Platy AI Assistant 🤖
+![Screenshot 2025-05-01 202707](https://github.com/user-attachments/assets/01a6d034-d23a-4af8-858a-3c62854df475)
 
 A modern AI chatbot powered by Google's Gemini AI that provides intelligent conversations and responses.
 
